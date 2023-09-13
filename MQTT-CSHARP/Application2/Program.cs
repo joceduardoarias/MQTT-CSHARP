@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Application1
+namespace Application2
 {
-    static class Program
+    public partial class Program : Form
     {
         /// <summary>
         /// The main entry point for the application.

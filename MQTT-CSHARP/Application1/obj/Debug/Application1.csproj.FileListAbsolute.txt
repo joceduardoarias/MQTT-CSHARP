@@ -1,0 +1,13 @@
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\bin\Debug\Application1.exe.config
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\bin\Debug\Application1.exe
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\bin\Debug\Application1.pdb
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\bin\Debug\M2Mqtt.Net.dll
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.csproj.AssemblyReference.cache
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.csproj.SuggestedBindingRedirects.cache
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.csproj.CopyComplete
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.exe
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.pdb
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.Form1.resources
+C:\Users\02204\Documents\Proys\Message-Broker\MQTT-CSHARP\MQTT-CSHARP\Application1\obj\Debug\Application1.csproj.GenerateResource.cache

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{32E25BD3-CDCB-4E21-98DB-32A95499BB15}</ProjectGuid>
+    <ProjectGuid>{E97B329C-3901-48EB-A4F5-6F8580D7CE9A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Application1</RootNamespace>
-    <AssemblyName>Application1</AssemblyName>
+    <RootNamespace>Application2</RootNamespace>
+    <AssemblyName>Application2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -56,7 +56,9 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Program.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
